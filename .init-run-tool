@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/recipevault-61613-8c36f741/recipevault_frontend"
+}
